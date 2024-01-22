@@ -1,5 +1,5 @@
 ### Hi there 👋
-![cute-bot-say-users-hello-chatbot-greets-online-consultation_80328-195](https://github.com/yasminefatih/yasminefatih/assets/130675792/a9288c51-b9fa-408e-ba34-17d039f67a72)
+![cute-bot-say-users-hello-chatbot-greets-online-consultation_80328-195](https://github.com/yasminefatih/yasminefatih/assets/130675792/8bde4471-8489-4b4e-bfb0-97dcd3bfa392)
 
 <br />
 <!--
