@@ -1,6 +1,6 @@
 ### Hi there 👋
-<p align="center"><a href="https://www.freepik.com/free-vector/cute-bot-say-users-hello-chatbot-greets-online-consultation_4015765.htm#query=hello&position=43&from_view=search&track=sph&uuid=6a69c4f8-8e96-4d3c-9723-acb5df6c98f5"><img width="80%" alt="Hello, I'm Anurag. I do open source!" /></a></p>
-
+![cart-item3](https://github.com/yasminefatih/yasminefatih/assets/130675792/b8757dd0-6831-4f51-9210-acd52083fd7a)
+![cart-item3](https://github.com/yasminefatih/yasminefatih/assets/130675792/ed000598-d5b0-4519-a2b9-50c5847f13f8)
 <br />
 <!--
 **yasminefatih/yasminefatih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
