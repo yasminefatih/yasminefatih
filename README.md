@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"><a href="[https://anuraghazra.github.io](https://www.freepik.com/free-vector/cute-bot-say-users-hello-chatbot-greets-online-consultation_4015765.htm#query=hello&position=43&from_view=search&track=sph&uuid=6a69c4f8-8e96-4d3c-9723-acb5df6c98f5)"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io(https://www.freepik.com/free-vector/cute-bot-say-users-hello-chatbot-greets-online-consultation_4015765.htm#query=hello&position=43&from_view=search&track=sph&uuid=6a69c4f8-8e96-4d3c-9723-acb5df6c98f5)"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 <!--
