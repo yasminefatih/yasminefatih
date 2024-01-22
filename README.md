@@ -1,7 +1,4 @@
 
-![cute-bot-say-users-hello-chatbot-greets-online-consultation_80328-1951](https://github.com/yasminefatih/yasminefatih/assets/130675792/41de1494-e34c-4b41-819b-f35c4eabefbe)
-
-<br />
 ### Hi there 👋, I'm yasmine
 #### I'm an aspiring web developer passionate about creating meaningful and interactive web experiences. Currently on a journey of continuous learning and exploration in the vast world of web development.
 
