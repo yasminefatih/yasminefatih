@@ -1,25 +1,11 @@
+### Hi there 👋
 
-![cute-bot-say-users-hello-chatbot-greets-online-consultation_80328-1951](https://github.com/yasminefatih/yasminefatih/assets/130675792/41de1494-e34c-4b41-819b-f35c4eabefbe)
+[![img](https://i.imgur.com/HcaHoth.png)](https://omkarpathak.in)
 
+-----
+Credits: [OmkarPathak](https://github.com/OmkarPathak)
 
-### Hi there 👋, I'm yasmine
-#### I'm an aspiring web developer passionate about creating meaningful and interactive web experiences. Currently on a journey of continuous learning and exploration in the vast world of web development.
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
-
-
-
-
-
-<!--
-**yasminefatih/yasminefatih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Last Edited on: 30/08/2020
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
