@@ -1,5 +1,5 @@
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-![e](https://github.com/yasminefatih/yasminefatih/assets/130675792/09000b7d-a76a-48a5-88da-028c45252b67)
+![e__2_-removebg-preview](https://github.com/yasminefatih/yasminefatih/assets/130675792/95cd1d44-4f19-4758-90d1-6238fe2a5e28)
 
 -------------------
 &emsp;
